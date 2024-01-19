@@ -66,7 +66,7 @@ def toDoList():
             elif done == "b":
                 viewList()
     elif option == "C":
-        exitList
+        exitList()
     
 #Main
 toDoList()
